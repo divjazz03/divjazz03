@@ -1,7 +1,7 @@
 <b>Hi 👋I am Maduka Divine Akachukwu</b>
 ================================================================
 
-<b> Web Application Developer • HTML • CSS • JavaScript • Java • SpringBoot  </b>
+<b> Web Application Developer • HTML • CSS • JavaScript • Java • Spring  </b>
 
 <b><i> I am passionate about Object Oriented Programming techniques and concepts, and will appreciate collaboration with like minds.</i></b>
 
