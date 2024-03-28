@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/madukadivine2" target="blank"><img src="https://img.shields.io/twitter/follow/madukadivine2?logo=twitter&style=for-the-badge" alt="madukadivine2" /></a> </p>
 
-- 🔭 I’m currently working on [banking-application](https://github.com/divjazz03/banking-application)
+- 🔭 I’m currently working on [Recommendic](https://github.com/divjazz03/Recommendic)
 
 - 🌱 I’m currently learning **Spring, Spring-Boot, JavaScript**
 
